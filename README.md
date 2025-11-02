@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋 I'm Fabian  <br>🔭 I’m currently studying Media Technology at FH St. Pölten, focusing on Interactive Media  <br>🌱 I’m currently learning more about frontend development with React and TypeScript, as well as diving deeper into machine learning and AI-driven classification<br>
+Hi there 👋 I'm Fabian  <br>🔭 I’m currently studying Data Intelligence at FH St. Pölten <br>🌱 I’m currently learning more about frontend development with React and TypeScript, as well as diving deeper into machine learning and AI-driven classification<br>
 
 
 # 💻 Tech Stack:
