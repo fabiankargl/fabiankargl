@@ -1,5 +1,6 @@
-# 💫 About Me:
-Hi there 👋 I'm Fabian  <br>🔭 I’m currently studying Data Intelligence at FH St. Pölten <br>🌱 I’m currently learning more about frontend development with React and TypeScript, as well as diving deeper into machine learning and AI-driven classification<br>
+# About Me
+Hi, I'm Fabian, a Data Intelligence student at FH St. Pölten.
+I enjoy building full stack data-driven projects, combining modern frontend technologies with robust backends and machine learning.
 
 
 # 💻 Tech Stack:
