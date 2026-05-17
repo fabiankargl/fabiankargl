@@ -1,5 +1,6 @@
 # About Me
 Hi, I'm Fabian, a Data Intelligence student at FH St. Pölten.
+
 I enjoy building full stack data-driven projects, combining modern frontend technologies with robust backends and machine learning.
 
 
